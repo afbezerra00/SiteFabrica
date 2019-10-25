@@ -1,0 +1,29 @@
+.menuprincipal {
+    background-color: #2354f7;
+    height: 60px;
+}
+
+.title {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.menu1 {
+    background-color: #ffffff;
+    width: 100%;
+    border-bottom: 3px solid #efefef;
+}
+
+.menu1 ul li {
+    display: inline-block;
+    color: #8b8b8b;
+    
+}
+
+.menu1 ul li a{
+    color: #8b8b8b;
+    text-decoration: none;
+    
+}
